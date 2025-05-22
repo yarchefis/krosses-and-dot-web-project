@@ -44,6 +44,6 @@ git clone https://github.com/yarchefis/krosses-and-dot-web-project.git
 Or view online:
 [https://yarchefis.github.io/krosses-and-dot-web-project/](https://yarchefis.github.io/krosses-and-dot-web-project/)
 
-take a look at my website. There are even more interesting projects there
-загляните ко мне на сайт. Там еще больше интересных проектов
-yardev.pw
+take a look at my website. There are even more interesting projects there    
+загляните ко мне на сайт. Там еще больше интересных проектов    
+[https://yardev.pw](https://yardev.pw)
